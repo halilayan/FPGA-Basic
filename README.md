@@ -1,4 +1,5 @@
 Here I explain and explain in detail some important information that forms the basis for FPGA.
+
 Syncronous FIFO ![SYN_FIFO-Page-1](https://github.com/user-attachments/assets/a5135e37-19c0-4669-958b-0e9466729650)
 JK FLIP FLOP ![JK_Flip_Flop](https://github.com/user-attachments/assets/8b5e50e3-be30-419b-90e0-b7f71a3f5698)
 D LATCH ![D_Datch](https://github.com/user-attachments/assets/a0b66ff6-52e7-47dc-84c8-de21c023e1a1)
