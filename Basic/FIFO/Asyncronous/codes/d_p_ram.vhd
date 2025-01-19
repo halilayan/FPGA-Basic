@@ -37,7 +37,7 @@ signal ram: d_p_ram;
 signal notfull_s: std_logic;
 
 begin
-	process(wr_clk_i)
+	process(wr_clk_i,rd_addr_i)
 	begin
 		if (wr_clk_i'event and wr_clk_i = '1') then
 			if (notfull_s = '1') then
